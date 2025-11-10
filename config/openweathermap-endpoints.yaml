@@ -1,0 +1,6 @@
+urls:
+  base: "https://api.openweathermap.org"
+  geoUrl: "/geo/1.0/direct"
+  dataUrl: "/data/2.5/weather"
+apiKey: "1db1ce0457227ac9c1d7de0c77871568"
+units: "metric"

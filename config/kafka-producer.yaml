@@ -1,0 +1,3 @@
+bootstrapServers: "localhost:9092"
+topic: "weather-data"
+acks: "all"

@@ -1,0 +1,36 @@
+countries:
+  - code : MA
+    name : Morocco
+    cities :
+      - Casablanca
+      - Rabat
+  - code : PT
+    name : Portugal
+    cities:
+      - Lisbon
+      - Porto
+  - code : GB
+    name : Grand Britain
+    cities:
+      - London
+      - Manchester
+  - code : AU
+    name : Australia
+    cities:
+      - Sydney
+      - Melbourne
+  - code : JP
+    name : Japan
+    cities:
+      - Tokyo
+      - Osaka
+  - code: US
+    name: United States
+    cities:
+      - New York
+      - Los Angeles
+  - code: CL
+    name: Chile
+    cities:
+      - Santiago
+      - Casablanca
